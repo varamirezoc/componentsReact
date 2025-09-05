@@ -1,5 +1,5 @@
 import React from 'react';
-import Navbar from './componentes/Navbar';
+import Navbar from './componentes/navbar';
 import Profile from './componentes/Profile';
 import Acordeon from './componentes/Acordeon';
 import Interests from './componentes/Interests';
@@ -9,7 +9,6 @@ import Events from './componentes/Events';
 import FriendRequest from './componentes/FriendRequest';
 import Ads from './componentes/Ads';
 import Footer from './componentes/Footer';
-import './styles/main.css';
 
 const App = () => {
   return (
