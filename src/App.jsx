@@ -19,7 +19,7 @@ const App = () => {
         <div className="w3-row">
           <div className="w3-col m3">
             <Profile />
-            <Accordion />
+            <Acordeon />
             <Interests />
             <AlertBox />
           </div>

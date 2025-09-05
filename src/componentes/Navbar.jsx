@@ -1,6 +1,6 @@
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faHome, faGlobe, faUser, faEnvelope, faBell } from '@fortawesome/free-solid-svg-icons';
+import { faHome, faGlobe, faUser, faEnvelope, faBell, faBars } from '@fortawesome/free-solid-svg-icons';
 
 const Navbar = () => {
     return (
